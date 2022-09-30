@@ -1,0 +1,5 @@
+page:
+  - any: ["src/GetGitHubUser/**/*"]
+
+module:
+  - any: ["src/TestFetch/**/*"]
